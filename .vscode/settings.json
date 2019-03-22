@@ -1,3 +1,4 @@
 {
-    "appService.defaultWebAppToDeploy": "None"
+    "appService.defaultWebAppToDeploy": "/subscriptions/e967711c-8139-4e73-ab3a-a1af45b297f1/resourceGroups/buildschoolzongying/providers/Microsoft.Web/sites/buildschoolzongying",
+    "appService.deploySubpath": "homework-02"
 }
